@@ -8,6 +8,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class DrogariaController {
 	@RequestMapping("/ola")
 	public String exibirMensagem() {
-		return "Hello world!";
+		return "Hello, world!";
 	}
 }
