@@ -1,0 +1,29 @@
+# Desenvolvimento-Back-end-em-Java-com-Spring
+
+- Criação de Banco de Dados (MySQL Workbench)
+- Criação de projeto Spring Boot
+- Estrutura do Projeto
+- Primeiro Controlador
+- Testando o Primeiro Controlador
+- DevTools
+- Spring Data JPA
+- Configuração da Conexão do JPA com o MySQL
+- Fuso horario
+- Criação de Entidade
+- Download e instalação Lombok
+- Utilização do Lombok (Contrutores GET SET)
+- Introdução ao JUnit
+- Anotações de Entidade
+- Criação de uma Tabela a partir de uma Entidade
+- Exibindo o SQL no Log
+- Camada Repositório
+- Teste da Camada Repositórios
+- Chave Estrangeira
+- Download e Instação Postman
+- Primeiro exemplo com Postman 
+- Estratégias para a Geração das Tabelas
+- Repositório da Categoria
+- Listagem do Controlador da Categoria
+- Inserção do Controlador da Categoria
+- Teste	de Inserção no Controladar da Categoria
+- Correção na Geração da Chave Primaria
