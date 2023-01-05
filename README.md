@@ -27,3 +27,12 @@
 - Inserção do Controlador da Categoria
 - Teste	de Inserção no Controladar da Categoria
 - Correção na Geração da Chave Primaria
+- Exclusão do Controlador da Categoria
+- Teste da Exclusão no Controlador da Categoria
+- Edição do Controlador da Categoria
+- Teste da Edição do Controlador da Categoria
+- Busca por Código do Controlador da Categoria
+- Buscar Código do Categoria Service
+- ResponseStatusException
+- Ocultar Stack Trace
+- Listar do Categoria Service
